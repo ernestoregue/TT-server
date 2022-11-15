@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'transitus'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C050EA676B9340249503E858248B964C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C1B4ECE3071E489B862A009553B25351 }}
